@@ -14,6 +14,3 @@ LINK DOKUMENTASI :
 
 LINK DEMO : https://http://localhost/LabUAS/datawarga/
 <hr>
-
-<b><i>Mohon Maaf Pak, Bila ada Kekurangan ataupun Kesalahan,</i></b><br>
-Terima Kasih, Pak.
